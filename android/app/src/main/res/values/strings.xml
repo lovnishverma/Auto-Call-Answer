@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lovnish Verma Auto Call</string>
+    <string name="accessibility_service_description">Auto call answer service</string>
+</resources>
